@@ -5,17 +5,17 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Hai Trieu Garment - Saigon, Vietnam</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://haitrieu.vercel.app">Hai Trieu Garment!</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          May In Thêu Hải Triều - Sài Gòn, Việt Nam {' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
