@@ -57,7 +57,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} /> | Made with ♥️ from <a href="https://haitrieu.com/dong-phuc-hai-trieu">Đồng Phục Hải Triều</a>
         </a>
       </footer>
     </div>
